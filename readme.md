@@ -1,12 +1,12 @@
-#Описание
+# Описание
 
 Если расходы больше доходов,то налог на разницу доходов и расходов становится отрицательным.
 
-#Локация дефекта
+# Локация дефекта
 
 https://github.com/netology-code/javaqa2-homeworks/biob/ac2c9089b1344aff164987d1f815984b31dc59a/files/javaintro/main.java#L8
 
-#Шаги воспроизведения
+# Шаги воспроизведения
 
 1 Открыть [код программы](https://github.com/netology-code/javaqa2-homeworks/blob/main/files/javaintro/Main.java)в IDEA<br>
 2 Выставить значение переменной `income`(доходы)в 70 тыс.рублей<br>
