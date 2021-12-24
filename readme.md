@@ -4,7 +4,7 @@
 
 # Локация дефекта
 
-https://github.com/netology-code/javaqa2-homeworks/biob/ac2c9089b1344aff164987d1f815984b31dc59a/files/javaintro/main.java#L8
+https://github.com/netology-code/javaqa2-homeworks/blob/ac2c9089b1344aff1f64987d1f815984b31dc59a/files/javaintro/Main.java#L8
 
 # Шаги воспроизведения
 
