@@ -19,7 +19,7 @@ https://github.com/netology-code/javaqa2-homeworks/biob/ac2c9089b1344aff164987d1
 
 # Скриншот
 
-![image](https://user-imeges.githubusercontent.com/53707586/145557840-220772cb-2e3b-4a9e-80ba-4a495df60916.png)
+![image](https://user-images.githubusercontent.com/53707586/145557840-220772cb-2e3b-4a9e-80ba-4a495df60916.png)
 
 # Окружение 
 
